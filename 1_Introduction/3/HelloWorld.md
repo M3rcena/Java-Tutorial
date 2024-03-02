@@ -1,5 +1,5 @@
 ### Writing and Running Your First Java Program: Hello, World!
-The tradition of creating a "Hello, World!" program is a rite of passage for new programmers in almost every language. It's a simple program that serves to introduce you to the basic syntax and structure of the language. Here's how to write and run your first Java program:
+The tradition of creating a "Hello, World!" program is a rite of passage for new programmers in almost every language. It΄s a simple program that serves to introduce you to the basic syntax and structure of the language. Here΄s how to write and run your first Java program:
 
 #### 1. Create a new file:
 Open a text editor or an IDE (Integrated Development Environment). Create a new file named `HelloWorld.java`.
@@ -14,10 +14,10 @@ public class HelloWorld {
     }
 }
 ```
-Let's break down the code:
+Let΄s break down the code:
 - `public class HelloWorld`: This declares a public class named `HelloWorld`. In Java, programs are organized into classes, which act as blueprints for creating objects.
 
-- `public static void main(String[] args)`: This line defines the main method, which is the entry point of your program execution. It's marked as `public` (accessible from anywhere), `static` (doesn't require an object to be created), and returns `void` (doesn't return any value). The `String[] args` parameter allows you to pass command-line arguments to your program (optional in this case).
+- `public static void main(String[] args)`: This line defines the main method, which is the entry point of your program execution. It΄s marked as `public` (accessible from anywhere), `static` (doesn΄t require an object to be created), and returns `void` (doesn΄t return any value). The `String[] args` parameter allows you to pass command-line arguments to your program (optional in this case).
 - `System.out.println("Hello, World!");`: This line uses the `System.out` object to print the string "Hello, World!" to the console. `println` adds a newline character after printing the message.
 
 #### 3. Save the file:
@@ -37,4 +37,4 @@ Run the compiled program using the following command:
 
 The `java` command invokes the JVM, which loads and executes the bytecode from the `HelloWorld.class` file. You should see the message "Hello, World!" printed on your console.
 
-Congratulations! You've successfully written and run your first Java program. This is just the beginning of your journey into the world of Java programming. As you learn more, you'll be able to create more complex programs that solve real-world problems.
+Congratulations! You΄ve successfully written and run your first Java program. This is just the beginning of your journey into the world of Java programming. As you learn more, you΄ll be able to create more complex programs that solve real-world problems.

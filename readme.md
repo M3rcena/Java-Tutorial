@@ -1,7 +1,7 @@
-# Java Fundamentals: A Beginner's Guide
+# Java Fundamentals: A Beginner΄s Guide
 
 ## Course Description
-This course is designed to provide beginners with a solid foundation in Java programming. Whether you're new to programming or have some experience with other languages, this course will help you understand the core concepts of Java and build your confidence in coding. Through a combination of lectures, practical exercises, and hands-on projects, you will learn essential programming principles and techniques in Java.
+This course is designed to provide beginners with a solid foundation in Java programming. Whether you΄re new to programming or have some experience with other languages, this course will help you understand the core concepts of Java and build your confidence in coding. Through a combination of lectures, practical exercises, and hands-on projects, you will learn essential programming principles and techniques in Java.
 
 ## Course Objectives
 - Understand the basics of Java syntax and programming structure
