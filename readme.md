@@ -16,10 +16,10 @@ This course is designed to provide beginners with a solid foundation in Java pro
 ## Course Outline
 
 ### Module 1: Introduction to Java Programming
-- Overview of Java
-- Setting up Java Development Environment
-- Writing and Running Your First Java Program
-- Understanding Java Virtual Machine (JVM) and Java Development Kit (JDK)
+- [Overview of Java](https://github.com/M3rcena/Java-Tutorial/blob/main/1_Introduction/1/overview.md)
+- [Setting up Java Development Environment](https://github.com/M3rcena/Java-Tutorial/blob/main/1_Introduction/2/setup.md)
+- [Writing and Running Your First Java Program](https://github.com/M3rcena/Java-Tutorial/blob/main/1_Introduction/3/HelloWorld.md)
+- [Understanding Java Virtual Machine (JVM) and Java Development Kit (JDK)](https://github.com/M3rcena/Java-Tutorial/blob/main/1_Introduction/4/differences.md)
 
 ### Module 2: Basic Java Syntax and Data Types
 - Java Syntax Rules
