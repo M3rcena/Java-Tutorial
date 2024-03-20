@@ -22,10 +22,10 @@ This course is designed to provide beginners with a solid foundation in Java pro
 - [Understanding Java Virtual Machine (JVM) and Java Development Kit (JDK)](https://github.com/M3rcena/Java-Tutorial/blob/main/1_Introduction/4/differences.md)
 
 ### Module 2: Basic Java Syntax and Data Types
-- Java Syntax Rules
-- Comments and Documentation
-- Primitive Data Types
-- Variables and Constants
+- [Java Syntax Rules](https://github.com/M3rcena/Java-Tutorial/blob/main/2_Basic/1/syntax.md)
+- [Comments and Documentation](https://github.com/M3rcena/Java-Tutorial/blob/main/2_Basic/2/comments.md)
+- [Primitive Data Types](https://github.com/M3rcena/Java-Tutorial/blob/main/2_Basic/3/dataTypes.md)
+- [Variables and Constants](https://github.com/M3rcena/Java-Tutorial/blob/main/2_Basic/4/variables.md)
 - Operators and Expressions
 
 ### Module 3: Control Flow and Decision Making
